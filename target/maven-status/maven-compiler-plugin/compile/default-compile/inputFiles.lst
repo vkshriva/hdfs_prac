@@ -1,0 +1,10 @@
+C:\Users\shrva02\Documents\oracle2pg\wordcount\src\main\java\com\lala\hadoop\reducer\NumberOfWordReducer.java
+C:\Users\shrva02\Documents\oracle2pg\wordcount\src\main\java\com\lala\hadoop\mapper\MapperWord.java
+C:\Users\shrva02\Documents\oracle2pg\wordcount\src\main\java\com\lala\hadoop\mapper\NumberOfWordMapper.java
+C:\Users\shrva02\Documents\oracle2pg\wordcount\src\main\java\com\lala\hadoop\reducer\ReducerWord.java
+C:\Users\shrva02\Documents\oracle2pg\wordcount\src\main\java\com\lala\hadoop\reducer\MaxAgeReducer.java
+C:\Users\shrva02\Documents\oracle2pg\wordcount\src\main\java\com\lala\hadoop\drivercode\NumberOfWordDriver.java
+C:\Users\shrva02\Documents\oracle2pg\wordcount\src\main\java\com\lala\hadoop\drivercode\WordCountDriver.java
+C:\Users\shrva02\Documents\oracle2pg\wordcount\src\main\java\com\lala\hadoop\mapper\MaxAgeMapper.java
+C:\Users\shrva02\Documents\oracle2pg\wordcount\src\main\java\com\lala\hadoop\drivercode\MaxAgeDriverCode.java
+C:\Users\shrva02\Documents\oracle2pg\wordcount\src\main\java\com\lala\hadopp\partioner\MaxAgePartioner.java

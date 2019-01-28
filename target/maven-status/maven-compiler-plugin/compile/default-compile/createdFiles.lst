@@ -1,0 +1,10 @@
+com\lala\hadopp\partioner\MaxAgePartioner.class
+com\lala\hadoop\reducer\NumberOfWordReducer.class
+com\lala\hadoop\drivercode\NumberOfWordDriver.class
+com\lala\hadoop\mapper\MapperWord.class
+com\lala\hadoop\drivercode\MaxAgeDriverCode.class
+com\lala\hadoop\mapper\NumberOfWordMapper.class
+com\lala\hadoop\reducer\ReducerWord.class
+com\lala\hadoop\reducer\MaxAgeReducer.class
+com\lala\hadoop\mapper\MaxAgeMapper.class
+com\lala\hadoop\drivercode\WordCountDriver.class
